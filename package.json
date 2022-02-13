@@ -1,0 +1,16 @@
+{
+  "name": "terra-decoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "bech32": "^2.0.0"
+  }
+}
