@@ -11,7 +11,7 @@ decodes terra address
   ```bash
   npm install 
   ```
-* specify your terra public address in app.js at the top of the file  
+* specify your terra public address or input data from the transaction in app.js at the top of the file  
 * in terminal run 
   ```bash
   npm start 
