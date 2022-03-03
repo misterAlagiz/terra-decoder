@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "bech32": "^2.0.0"
+  },
+  "devDependencies": {
+    "web3-utils": "^1.7.0"
   }
 }
